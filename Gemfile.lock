@@ -8,8 +8,8 @@ GIT
       refinerycms-core (~> 3.0, >= 3.0.0)
 
 GIT
-  remote: https://github.com/menunextdoor/dragonfly-cloudinary.git
-  revision: e3319b702cb5d3090bf38fc4958bb933b1976da4
+  remote: https://github.com/adie/dragonfly-cloudinary.git
+  revision: 5f476ea4c1eb214f280a3aa31ea8ad982ffc1398
   specs:
     dragonfly-cloudinary (0.1.1)
       cloudinary (>= 1.0)
